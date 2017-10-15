@@ -25,5 +25,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'slim-rails'
   s.add_development_dependency "bundler", "~> 1.13"
 
-  s.required_ruby_version = '>= 2.3.0'
+  s.required_ruby_version = '>= 2.2.0'
 end
